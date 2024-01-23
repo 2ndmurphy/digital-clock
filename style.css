@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#jam {
+    font-size: 2em;
+    border: 2px solid;
+    padding: 10px;
+    transition: border-color 0.5s ease-in-out;
+}
